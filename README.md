@@ -25,4 +25,4 @@ This [breaks many of kedro principles and sofware engineering best practices](ht
 
 ## Motivation 1 : automatic tracking
 
-Switch to kedro-mlflow-tutorial.  
+Switch to [kedro-mlflow-tutorial](https://github.com/Galileo-Galilei/kedro-mlflow-tutorial).  
